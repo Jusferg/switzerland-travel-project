@@ -231,6 +231,19 @@ footer a {
     grid-gap: 32px;
   }
 
+  .grid-2-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .grid-3-columns {
+    grid-template-columns: 1fr;
+    padding-right: 30px;
+  }
+
+  .grid-footer {
+    grid-template-columns: 1fr;
+  }
+
   section {
     padding: 30px;
   }
